@@ -1,1 +1,1 @@
-My first readme of alx
+My first readme
